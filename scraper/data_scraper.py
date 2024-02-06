@@ -1,4 +1,7 @@
 import soccerdata as sd
+from soccerdata import FBref
+from soccerdata import ClubElo
+from soccerdata import WhoScored
 
 fbref = sd.FBref()
 WhoScored = sd.WhoScored()
